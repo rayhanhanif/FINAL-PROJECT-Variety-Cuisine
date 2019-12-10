@@ -13,7 +13,7 @@ There are two choices in the display menu program; Cashier and Booth.
 - refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
 - listcards(); //to show the list of cards which have been registered and stored in the txt file.
 
-![LISTOFCARDSINDAPROGRAM](https://serving.photos.photobox.com/03655774695a94ecfd1b86fa2e7e4716d1cd33c3e0e29c7ad138848cbf0c4b6c612af068.jpg)
+![messageImage_1575943022185](https://serving.photos.photobox.com/03655774695a94ecfd1b86fa2e7e4716d1cd33c3e0e29c7ad138848cbf0c4b6c612af068.jpg)
 
 2.	Booth 
     In the booth function we can order the choices of food that is offered in the restaurant. There are ten different food choices. The cool thing about this program is that if we want to order the selected item for an amount of 7, we can spam the number of the selected item in the program and it will keep on adding until we want the desired amount. After selecting the food, we will be directed to the payment function. There are three choices in the payment function;
