@@ -1,5 +1,5 @@
 # FINAL-PROJECT-Variety-Cuisine
-This mini project is created using Code Blocks and the functions that are used in this program are array, function, and header.
+The final project is created using Code Blocks and the functions that are used in this program are array, function, header, and data structures.
 
 Our program is about a data sorting program which is applied in restaurants. The program has two features which are to store the id card number and the amount of money stored in it, and to store the data of the ordered food of the customer. To store the card ID number and the amount of money in it, we use the fptr, fscanf, fopen, fclose and strtoken to keep and open the data from the txt file.
 There are two choices in the display menu program; Cashier and Booth.
@@ -18,10 +18,11 @@ There are two choices in the display menu program; Cashier and Booth.
 2.	Booth 
     In the booth function we can order the choices of food that is offered in the restaurant. There are ten different food choices. The cool thing about this program is that if we want to order the selected item for an amount of 7, we can spam the number of the selected item in the program and it will keep on adding until we want the desired amount. After selecting the food, we will be directed to the payment function. There are three choices in the payment function;
 
-
 - Yes // to continue to the payment, entering the card ID number
 - Back and add more // return to the food menu and add more food
 - Back and reduce // return to the food menu and reduce the amount of food selected
+
+![Screenshot (90)](https://serving.photos.photobox.com/7477892202f021b477238ea6be4e62b663f0f96226c96c74c617dcf6a5c242079a1d2073.jpg)
 
 3.  Help 
     In the help function, it's the instruction on how to use the program and the description of the functions that is in the program. 
