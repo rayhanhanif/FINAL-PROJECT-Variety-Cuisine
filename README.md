@@ -5,17 +5,17 @@ Our program is about a data sorting program which is applied in restaurants. The
 There are two choices in the display menu program; Cashier and Booth.
 
 1.	Cashier In this function there are are four functions
-•	newcard(); //to create a member card
-•	topup(); //to add the amount of cash inside the card
-•	refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
-•	listcards(); //to show the list of cards which have been registered and stored in the txt file.
+\n newcard(); //to create a member card
+\n topup(); //to add the amount of cash inside the card
+\n refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
+\n listcards(); //to show the list of cards which have been registered and stored in the txt file.
 
 2.	Booth In the booth function we can order the choices of food that is offered in the restaurant. There are ten different food choices. The cool thing about this program is that if we want to order the selected item for an amount of 7, we can spam the number of the selected item in the program and it will keep on adding until we want the desired amount. After selecting the food, we will be directed to the payment function. There are three choices in the payment function;
 
 
-•	Yes // to continue to the payment, entering the card ID number
-•	Back and add more // return to the food menu and add more food
-•	Back and reduce // return to the food menu and reduce the amount of food selected
+\n Yes // to continue to the payment, entering the card ID number
+\n Back and add more // return to the food menu and add more food
+\n Back and reduce // return to the food menu and reduce the amount of food selected
 
 3.  Help In the help function, it's the instruction on how to use the program and the description of the functions that is in the program. 
 
