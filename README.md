@@ -49,5 +49,5 @@ There are two choices in the display menu program; Cashier and Booth.
     
     Thank You
     
-Anak Agung Krisna Ananda Kusuma (1806228146)
-Rayhan Hanif Oetomo (1806187770)
+- Anak Agung Krisna Ananda Kusuma (1806228146)
+- Rayhan Hanif Oetomo (1806187770)
