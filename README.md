@@ -40,3 +40,14 @@ There are two choices in the display menu program; Cashier and Booth.
    
     
     ![ReceiptTXT](https://serving.photos.photobox.com/885109998011b8510054002d50f70c1213a44bf028d19e82134357e5b6bde4e76d3a6b8f.jpg)
+    
+    We managed to apply API win32 for the graphical user interface (GUI). To make such a GUI, we first start by creating the window. In codeblocks, there is the library called windows.h to do so. Then, we follow the instruction from our reference on youtube (https://www.youtube.com/watch?v=8GCvZs55mEM&list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK), learn step by step how to make the submenu, buttons, and description in the window, then we modify the code to make the window to look just like the one that we make in the console  application. The GUI is able to display the lists of menu and to display datas such as the number of registered cards with the amount of cash in it. 
+    
+    ![GUI1](https://serving.photos.photobox.com/36656479fc77fb1c611499175a526d3b04a1924e7c14e85d5c4eb6043d9dd510b56ad535.jpg)
+    ![GUI2](https://serving.photos.photobox.com/68425951403c7844818cd9d3e16db599e7f72d78723859bc18aeaa814fb89a49a9a1313a.jpg)
+    ![GUI3](https://serving.photos.photobox.com/11583924c0ae9510c527265ce7c13677cfde40904e93d0bc7e357884c401e90379c9074f.jpg)
+    
+    Thank You
+    
+Anak Agung Krisna Ananda Kusuma (1806228146)
+Rayhan Hanif Oetomo (1806187770)
